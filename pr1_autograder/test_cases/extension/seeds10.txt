@@ -1,0 +1,7 @@
+DEHV
+3
+4
+3
+Sequence 0 Position 2 Q-index 0
+Sequence 1 Position 2 Q-index 0
+Sequence 2 Position 2 Q-index 0
