@@ -93,6 +93,10 @@
 
           .staff-name {
             font-weight: bold;
+            font-size: 0.88rem;
+          }
+          .staff-descrip {
+            font-size: 0.8rem;
           }
       }
     }
@@ -330,7 +334,7 @@ header {
 .page-content {
   padding: 0 0; 
   flex: 1 0 auto; 
-  background-image: url("{{base}}/assets/images/icons/jungle.png"), linear-gradient(to bottom, #18352f, #18352f, #18352f, #18352f) ; // change to #000000 once enough lectures
+  background-image: url("{{base}}/assets/images/icons/arctic.png"), linear-gradient(to bottom, #c4dbe1, #c4dbe1, #c4dbe1, #c4dbe1) ; // change to #000000 once enough lectures
   background-size: 100%;
   background-repeat: no-repeat;
   font-family: monospace; 

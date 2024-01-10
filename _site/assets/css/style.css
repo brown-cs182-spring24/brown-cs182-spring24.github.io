@@ -238,7 +238,8 @@ table td { border: 1px solid #e8e8e8; }
 .uta-container .staff-wrapper:hover .staff-photo .staff-img { display: none; }
 .uta-container .staff-wrapper .staff-info { height: max-content; display: flex; flex-direction: column; }
 @media only screen and (max-width: 600px) { .uta-container .staff-wrapper .staff-info { width: 100%; } }
-.uta-container .staff-wrapper .staff-info .staff-name { font-weight: bold; }
+.uta-container .staff-wrapper .staff-info .staff-name { font-weight: bold; font-size: 0.88rem; }
+.uta-container .staff-wrapper .staff-info .staff-descrip { font-size: 0.8rem; }
 
 /** SITE SIDEBAR **/
 .site-sidebar { padding: 30px 5px; display: flex; flex-direction: row; position: absolute; width: 100px; }
@@ -269,7 +270,7 @@ header { font-family: 'Coiny'; height: 25px; }
 .window .window-content { font-family: "Open Sans"; border-bottom: 2px solid #d4d4d4; padding: 15px 15px 0px 15px; }
 
 /* PAGE CONTENT */
-.page-content { padding: 0 0; flex: 1 0 auto; background-image: url("/assets/images/icons/jungle.png"), linear-gradient(to bottom, #18352f, #18352f, #18352f, #18352f); background-size: 100%; background-repeat: no-repeat; font-family: monospace; min-height: 800px; }
+.page-content { padding: 0 0; flex: 1 0 auto; background-image: url("/assets/images/icons/arctic.png"), linear-gradient(to bottom, #c4dbe1, #c4dbe1, #c4dbe1, #c4dbe1); background-size: 100%; background-repeat: no-repeat; font-family: monospace; min-height: 800px; }
 
 /* LINKS */
 .links-subcontainer > p { display: block; margin: 5px 20px 5px 5px; width: 30%; }

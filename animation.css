@@ -5,7 +5,7 @@ body {
 
   .animation-wrapper{
     position: absolute;
-    top: 5em;
+    top: 4em;
     width: 100%;
     overflow: hidden;
   }
@@ -20,21 +20,21 @@ body {
   
   @-webkit-keyframes swim
   {
-      0% {margin-left: -235px}
+      0% {margin-left: -400px}
       90% {margin-left: 100%;}
       100% {margin-left: 100%;}
   }
   
   @keyframes swim
   {
-      0% {margin-left: -235px}
+      0% {margin-left: -400px}
       70% {margin-left: 100%;}
       100% {margin-left: 100%;}
   }
   
   .animal{
       width: 250px;
-      height: 108px;
+      height: 250px;
       margin-left: -250px;
       overflow: visible;
       position: relative;	
@@ -52,10 +52,8 @@ body {
   svg #animal4,
   svg #animal5,
   svg #animal6 {
-  fill:#c0994b; 
-  /* fill:#30c5ff; */
     
-      -moz-animation: bounce 2s infinite;
+    -moz-animation: bounce 2s infinite;
     -webkit-animation: bounce 2s infinite;
     animation: bounce 2s infinite;
   }
@@ -92,12 +90,12 @@ body {
       transform: translateY(0);
     }
     25% {
-      -moz-transform: translateY(-5px);
-      transform: translateY(-5px);
+      -moz-transform: translateY(-10px);
+      transform: translateY(-10px);
     }
     75% {
-      -moz-transform: translateY(-3px);
-      transform: translateY(-3px);
+      -moz-transform: translateY(-6px);
+      transform: translateY(-6px);
     }
   }
   @-webkit-keyframes bounce {
@@ -106,12 +104,12 @@ body {
       transform: translateY(0);
     }
     25% {
-      -webkit-transform: translateY(-5px);
-      transform: translateY(-5px);
+      -webkit-transform: translateY(-10px);
+      transform: translateY(-10px);
     }
     75% {
-      -webkit-transform: translateY(-3px);
-      transform: translateY(-3px);
+      -webkit-transform: translateY(-6px);
+      transform: translateY(-6px);
     }
   }
   @keyframes bounce {
@@ -122,16 +120,16 @@ body {
       transform: translateY(0);
     }
     25% {
-      -moz-transform: translateY(-5px);
-      -ms-transform: translateY(-5px);
-      -webkit-transform: translateY(-5px);
-      transform: translateY(-5px);
+      -moz-transform: translateY(-10px);
+      -ms-transform: translateY(-10px);
+      -webkit-transform: translateY(-10px);
+      transform: translateY(-10px);
     }
     75% {
-      -moz-transform: translateY(-3px);
-      -ms-transform: translateY(-3px);
-      -webkit-transform: translateY(-3px);
-      transform: translateY(-3px);
+      -moz-transform: translateY(-6px);
+      -ms-transform: translateY(-6px);
+      -webkit-transform: translateY(-6px);
+      transform: translateY(-6px);
     }
   }
   
