@@ -228,7 +228,7 @@ table td { border: 1px solid #e8e8e8; }
 @media screen and (min-width: 800px) { .one-half { width: calc(50% - (30px / 2)); } }
 /** STAFF PAGE STYLING **/
 .uta-container { display: flex; margin: auto; flex-direction: row; flex-wrap: wrap; gap: 20px; }
-.uta-container .staff { width: fit-content; max-width: 188px; flex-wrap: wrap; display: flex; flex: 0 0 31%; }
+.uta-container .staff { width: fit-content; max-width: 175px; flex-wrap: wrap; display: flex; flex: 0 0 31%; }
 @media only screen and (max-width: 600px) { .uta-container .staff { flex: 0 0 45%; } }
 .uta-container .staff-wrapper { width: fit-content; height: fit-content; display: flex; flex-direction: column; flex-wrap: wrap; gap: 20px; overflow: hidden; transition: 0.2s ease; }
 .uta-container .staff-wrapper .staff-photo { position: relative; max-width: 100%; flex-wrap: wrap; display: grid; justify-content: center; align-items: center; }
@@ -260,9 +260,9 @@ header { font-family: 'Coiny'; height: 25px; }
 .footer-wrapper { font-family: 'Coiny'; height: 2em; width: 100%; padding: 5px 0 5px 0; display: flex; justify-content: center; align-items: center; flex-direction: row; background: #d4d4d4; border-top: 1px solid #f4f4f4; border-bottom: 1px solid #4e4e4e; box-shadow: inset 1px 0 #fff; }
 
 /** WINDOW **/
-.window { width: 100%; background-color: white; margin-bottom: 8%; }
+.window { width: 94%; background-color: white; margin-bottom: 8%; }
 @media only screen and (max-width: 600px) { .window { margin-top: 70px; } }
-.window .title { font-family: 'Coiny', cursive; font-size: 1.5rem; position: relative; text-align: left; color: #fff; line-height: 1.2; background: #4b8654; display: flex; flex-direction: row; text-transform: capitalize; }
+.window .title { font-family: 'Coiny', cursive; font-size: 1.36rem; position: relative; text-align: left; color: #fff; line-height: 1.2; background: #4b8654; display: flex; flex-direction: row; text-transform: capitalize; }
 .window .title .title-text { padding: 0.5em 0.75em; }
 .window p { font-family: "Open Sans"; }
 .window h3 { font-family: "Coiny"; }

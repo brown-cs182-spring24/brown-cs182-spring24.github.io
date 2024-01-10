@@ -22,7 +22,7 @@
 
     .staff {
       width: fit-content;
-      max-width: 188px;
+      max-width: 175px;
       flex-wrap: wrap;
       display: flex;
       flex: 0 0 31%;
@@ -234,7 +234,7 @@ header {
 
 /** WINDOW **/
 .window {
-  width: 100%;
+  width: 94%;
   background-color: white;
   // border: 2px solid #d4d4d4;
   // padding: 1px;
@@ -247,7 +247,7 @@ header {
 
     .title {
       font-family: 'Coiny', cursive;
-      font-size: 1.5rem;
+      font-size: 1.36rem;
       position: relative;
       text-align: left;
       color: #fff;
