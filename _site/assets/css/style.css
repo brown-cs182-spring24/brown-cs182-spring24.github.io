@@ -94,7 +94,7 @@ li > ul, li > ol { margin-bottom: 0; }
 h1, h2, h3, h4, h5, h6 { font-weight: 400; font-family: 'Coiny', cursive; }
 
 /** Links */
-a { color: #1fae43; text-decoration: none; }
+a { color: #4a97bb; text-decoration: none; }
 a:hover { color: black; }
 .social-media-list a:hover, .pagination a:hover { text-decoration: none; }
 .social-media-list a:hover .username, .pagination a:hover .username { text-decoration: underline; }
@@ -252,7 +252,7 @@ table td { border: 1px solid #e8e8e8; }
 .site-sidebar .link-wrapper { display: flex; flex-direction: column; align-items: center; justify-content: center; cursor: pointer; border-radius: 10px; padding-left: 2em; padding-right: 2em; transition: 0.3s ease; min-width: 85px; max-width: 48%; }
 .site-sidebar .link-wrapper .image { transition: transform 0.2s ease-in-out; }
 .site-sidebar .link-wrapper .image:hover { transform: scale(1.1) rotate(1.5deg); }
-.site-sidebar .link-wrapper .text { display: flex; justify-content: center; align-items: center; color: #dadada; font-weight: bold; font-size: 0.9rem; background-color: #295a4e; border-radius: 0.7rem; padding: 0.2rem; }
+.site-sidebar .link-wrapper .text { display: flex; justify-content: center; align-items: center; color: #dadada; font-weight: bold; font-size: 0.9rem; background-color: #4a97bb; border-radius: 0.7rem; padding: 0.2rem; }
 
 /** SITE SIDEBAR **/
 header { font-family: 'Coiny'; height: 25px; }
@@ -263,7 +263,7 @@ header { font-family: 'Coiny'; height: 25px; }
 /** WINDOW **/
 .window { width: 94%; background-color: white; margin-bottom: 8%; }
 @media only screen and (max-width: 600px) { .window { margin-top: 70px; } }
-.window .title { font-family: 'Coiny', cursive; font-size: 1.36rem; position: relative; text-align: left; color: #fff; line-height: 1.2; background: #4b8654; display: flex; flex-direction: row; text-transform: capitalize; }
+.window .title { font-family: 'Coiny', cursive; font-size: 1.36rem; position: relative; text-align: left; color: #fff; line-height: 1.2; background: #4a97bb; display: flex; flex-direction: row; text-transform: capitalize; }
 .window .title .title-text { padding: 0.5em 0.75em; }
 .window p { font-family: "Open Sans"; }
 .window h3 { font-family: "Coiny"; }

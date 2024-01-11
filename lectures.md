@@ -11,12 +11,12 @@ links: []
 
 ### Class Notes
 
-The link to the ongoing class notes can be found [here]() TODO. 
+The link to the ongoing class notes can be found [here](), to be released soon. 
 
 ### Note Sign-up
 
-The link to sign up for taking class notes is [here]() TODO. This is required for participation credit. 
-The link to submit your notes is [here]() TODO. 
+The link to sign up for taking class notes is [here](), to be released soon. This is required for participation credit. 
+The link to submit your notes is [here](), to be released soon. 
 
 ### Videos
 

@@ -2,35 +2,35 @@
 cols: ["Homework", "Out", "In", "Support Files"]
 contents: [
   {
-    "Homework" : [{"Course Setup Form"}],
-    "Out" : ["1/x/24"],
-    "In" : ["2/x/24"]
+    "Homework" : [{"Course Setup Form" : https://docs.google.com/forms/d/e/1FAIpQLSdNq0VUYtp_iUx0PCZnOv3zB5rTDhSkQWWxwBBlwZ2NLyPyBA/viewform?usp=sf_link}],
+    "Out" : ["1/25/24"],
+    "In" : ["TBD"]
    },
    {
-    "Homework" : [{"Homework 1: Alignment"}],
-    "Out" : [""],
-    "In" : [""]
+    "Homework" : ["Homework 1: BLAST and Karlin-Altschul Statistics"],
+    "Out" : ["1/30/24"],
+    "In" : ["2/8/24"]
    },
    {
-    "Homework" : [{"Homework 2: Alignment"}],
-    "Out" : [""],
-    "In" : [""],
+    "Homework" : ["Homework 2"],
+    "Out" : ["2/15/24"],
+    "In" : ["2/22/24"],
     "Support Files": []
    },
    {
-    "Homework" : [{"Homework 3: KMP and DFAs"}],
-    "Out" : [""],
-    "In" : [""]
+    "Homework" : ["Homework 3"],
+    "Out" : ["TBD"],
+    "In" : ["TBD"]
    },
    {
-    "Homework" : [{"Homework 4: Suffix Trees and Phylogeny"}],
-    "Out" : [""],
-    "In" : [""]
+    "Homework" : ["Homework 4"],
+    "Out" : ["TBD"],
+    "In" : ["TBD"]
    },
    {
-    "Homework" : [{"Homework 5: Hidden Markov Models"}],
-    "Out" : [""],
-    "In" : [""]
+    "Homework" : ["Homework 5"],
+    "Out" : ["TBD"],
+    "In" : ["TBD"]
    },
   ]
 ---

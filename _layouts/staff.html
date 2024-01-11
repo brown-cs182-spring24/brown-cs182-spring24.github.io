@@ -4,12 +4,12 @@
     <div class="staff-photo">
       {% if page.photo %}
       <div class="staff-img">
-        <img class="staff-image" src="{{site.baseurl}}/assets/images/staff/{{page.photo}}" onerror="this.src = '{{site.baseurl}}/assets/images/staff/dino.jpg';" alt="{{page.name}} photo">
+        <img class="staff-image" src="{{site.baseurl}}/assets/images/staff/{{page.photo}}" onerror="this.src = '{{site.baseurl}}/assets/images/staff/missing.png';" alt="{{page.name}} photo">
       </div>
       {% endif %}
       {% if page.throwback_photo %}
       <div class="throwback-img">
-        <img class="staff-image" src="{{site.baseurl}}/assets/images/staff/{{page.throwback_photo}}" onerror="this.src = '{{site.baseurl}}/assets/images/staff/dino.jpg';" alt="{{page.name}} photo">
+        <img class="staff-image" src="{{site.baseurl}}/assets/images/staff/{{page.throwback_photo}}" onerror="this.src = '{{site.baseurl}}/assets/images/staff/missing.png';" alt="{{page.name}} photo">
       </div>
       {% endif %}
     </div>

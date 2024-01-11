@@ -2,35 +2,29 @@
 cols: ["Project", "Out", "In", "Support Files"]
 contents: [
    {
-    "Project" : [{"Project 0: Warmup"}],
-    "Out" : [""],
-    "In" : [""],
+    "Project" : ["Project 1: Simplified BLAST"],
+    "Out" : ["2/1/24"],
+    "In" : ["2/15/24"],
     "Support Files" : []
    },
    {
-    "Project" : [{"Project 1: Alignment"}],
-    "Out" : [""],
-    "In" : [""],
+    "Project" : ["Project 2"],
+    "Out" : ["2/15/24"],
+    "In" : ["2/29/24"],
     "Support Files" : []
    },
    {
-    "Project" : [{"Project 2: Pattern Matching"}],
-    "Out" : [""],
-    "In" : [""], 
+    "Project" : ["Project 3"],
+    "Out" : ["TBD"],
+    "In" : ["TBD"], 
     "Support Files" : []
    },
    {
-    "Project" : [{"Project 3: Phylogeny"}],
-    "Out" : [""],
-    "In" : [""],
+    "Project" : ["Project 4"],
+    "Out" : ["TBD"],
+    "In" : ["TBD"],
     "Support Files" : []
    },
-   {
-    "Project" : [{"Project 4: Hidden Markov Models"}],
-    "Out" : [""],
-    "In" : [""],
-    "Support Files" : []
-   }
 ]
 ---
 <!-- the link format: {"Project 1: Alignment": "https://google.com"} -->

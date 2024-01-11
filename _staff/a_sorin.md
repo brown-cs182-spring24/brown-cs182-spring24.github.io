@@ -1,6 +1,6 @@
 ---
 name: Sorin Istrail (Professor)
 role: staff
-photo: sorin.jpg
+photo: sorin.png
 throwback_photo: sorin_alt.jpg
 ---

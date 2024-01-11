@@ -3,15 +3,15 @@ cols: ["Checkpoints", "Dates"]
 contents: [
   {
     "Checkpoints" : [Project Proposal Meetings],
-    "Dates" : ["11/6/23-11/10/23"]
+    "Dates" : ["TBD"]
    },
    {
     "Checkpoints" : [Project Presentations],
-    "Dates" : ["12/6/23-12/8/23"]
+    "Dates" : ["TBD"]
    },
    {
     "Checkpoints" : ["Project Powerpoint, Paper, and Code"],
-    "Dates" : ["12/11/23"]
+    "Dates" : ["TBD"]
    },
   ]
 ---

@@ -24,6 +24,6 @@ The LaTeX template can be found [here](https://www.overleaf.com/read/tvtrfttssft
 
 {% include table_helper.html name="projects_table" %}
 
-## Final Project (those seeking 2820 credit only!) TODO: do we need this?
+## Final Project (those seeking 2820 credit only!)
 
 {% include table_helper.html name="fp_table" %}
