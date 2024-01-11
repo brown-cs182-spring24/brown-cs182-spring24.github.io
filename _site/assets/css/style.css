@@ -256,7 +256,7 @@ table td { border: 1px solid #e8e8e8; }
 .site-sidebar .link-wrapper .text { display: flex; justify-content: center; align-items: center; color: #dadada; font-weight: bold; font-size: 0.9rem; background-color: #4a97bb; border-radius: 0.7rem; padding: 0.2rem; }
 
 /** SITE FOOTER **/
-.footer-wrapper { font-family: 'Coiny'; height: 2em; width: 100%; padding: 5px 0 5px 0; display: flex; justify-content: center; align-items: center; flex-direction: row; background: #d4d4d4; border-top: 1px solid #f4f4f4; border-bottom: 1px solid #4e4e4e; box-shadow: inset 1px 0 #fff; }
+.footer-wrapper { font-family: 'Coiny'; font-size: 0.7rem; height: 2em; width: 100%; padding: 5px 0 5px 0; display: flex; justify-content: center; align-items: center; flex-direction: row; background: #d4d4d4; border-top: 1px solid #f4f4f4; border-bottom: 1px solid #4e4e4e; box-shadow: inset 1px 0 #fff; }
 
 /** WINDOW **/
 .window { width: 94%; background-color: white; margin-bottom: 8%; }
