@@ -117,19 +117,21 @@
 
     .site-nav {
       display: flex;
-      width: 138px;
       flex-direction: row;
       justify-content: center;
       align-items: center;
-      left: 44px;
+      left: 0.9em;
       position: absolute;
       z-index: 21;
-      top: 20px;
+      top: 0.9em;
 
         @media only screen and (max-width: 1020px) {
           position: fixed;
           top: 12px;
           flex-direction: column;
+          max-width: 10%;
+          left: 0.9em !important;
+          right: 90%;
         }
 
 
@@ -166,6 +168,10 @@
     min-width: 85px;
     max-width: 48%;
 
+    @media only screen and (max-width: 1020px) {
+      min-width: 4em;
+      max-width: 8%;
+    }
 
     .image {
       transition: transform 0.2s ease-in-out;
@@ -189,11 +195,6 @@
   }
 }
 
-/** SITE SIDEBAR **/
-header {
-  font-family: 'Coiny';
-  height: 25px;
-}
 
 /** SITE FOOTER **/
 .footer-wrapper {

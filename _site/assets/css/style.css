@@ -244,18 +244,16 @@ table td { border: 1px solid #e8e8e8; }
 /** SITE SIDEBAR **/
 .site-sidebar { padding: 30px 5px; display: flex; flex-direction: row; position: absolute; width: 100px; }
 .site-sidebar .sidebar-wrapper { justify-content: center; display: flex; align-items: center; }
-.site-sidebar .sidebar-wrapper .site-nav { display: flex; width: 138px; flex-direction: row; justify-content: center; align-items: center; left: 44px; position: absolute; z-index: 21; top: 20px; }
-@media only screen and (max-width: 1020px) { .site-sidebar .sidebar-wrapper .site-nav { position: fixed; top: 12px; flex-direction: column; } }
+.site-sidebar .sidebar-wrapper .site-nav { display: flex; flex-direction: row; justify-content: center; align-items: center; left: 0.9em; position: absolute; z-index: 21; top: 0.9em; }
+@media only screen and (max-width: 1020px) { .site-sidebar .sidebar-wrapper .site-nav { position: fixed; top: 12px; flex-direction: column; max-width: 10%; left: 0.9em !important; right: 90%; } }
 .site-sidebar .sidebar-wrapper .site-nav .nav-trigger { width: 100% !important; display: none; }
 .site-sidebar .sidebar-wrapper .site-nav .trigger { flex-direction: row; justify-content: center; align-items: center; gap: 1px; max-height: 45em; }
 @media only screen and (max-width: 1020px) { .site-sidebar .sidebar-wrapper .site-nav .trigger { flex-direction: column; } }
 .site-sidebar .link-wrapper { display: flex; flex-direction: column; align-items: center; justify-content: center; cursor: pointer; border-radius: 10px; padding-left: 2em; padding-right: 2em; transition: 0.3s ease; min-width: 85px; max-width: 48%; }
+@media only screen and (max-width: 1020px) { .site-sidebar .link-wrapper { min-width: 4em; max-width: 8%; } }
 .site-sidebar .link-wrapper .image { transition: transform 0.2s ease-in-out; }
 .site-sidebar .link-wrapper .image:hover { transform: scale(1.1) rotate(1.5deg); }
 .site-sidebar .link-wrapper .text { display: flex; justify-content: center; align-items: center; color: #dadada; font-weight: bold; font-size: 0.9rem; background-color: #4a97bb; border-radius: 0.7rem; padding: 0.2rem; }
-
-/** SITE SIDEBAR **/
-header { font-family: 'Coiny'; height: 25px; }
 
 /** SITE FOOTER **/
 .footer-wrapper { font-family: 'Coiny'; height: 2em; width: 100%; padding: 5px 0 5px 0; display: flex; justify-content: center; align-items: center; flex-direction: row; background: #d4d4d4; border-top: 1px solid #f4f4f4; border-bottom: 1px solid #4e4e4e; box-shadow: inset 1px 0 #fff; }
