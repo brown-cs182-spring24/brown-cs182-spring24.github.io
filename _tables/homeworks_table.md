@@ -4,7 +4,7 @@ contents: [
   {
     "Homework" : [{"Course Setup Form" : https://docs.google.com/forms/d/e/1FAIpQLSdNq0VUYtp_iUx0PCZnOv3zB5rTDhSkQWWxwBBlwZ2NLyPyBA/viewform?usp=sf_link}],
     "Out" : ["1/25/24"],
-    "In" : ["TBD"]
+    "In" : ["2/6/24"]
    },
    {
     "Homework" : ["Homework 1: BLAST and Karlin-Altschul Statistics"],

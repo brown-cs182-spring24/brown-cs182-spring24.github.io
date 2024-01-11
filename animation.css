@@ -37,7 +37,8 @@ body {
       height: 150px;
       margin-left: -250px;
       overflow: visible;
-      position: relative;	
+      position: relative;
+      z-index: 23;
       animation: swim 15s;
       -webkit-animation: swim 15s;
       animation-iteration-count: infinite;

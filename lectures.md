@@ -15,8 +15,8 @@ The link to the ongoing class notes can be found [here](), to be released soon.
 
 ### Note Sign-up
 
-The link to sign up for taking class notes is [here](), to be released soon. This is required for participation credit. 
-The link to submit your notes is [here](), to be released soon. 
+The link to sign up for taking class notes is [here](https://docs.google.com/spreadsheets/d/1DFZurozNs3Be1O5WqS_UXUGFSbslHbWKFohHZ0zuphk/edit?usp=sharing). This is required for participation credit. 
+The link to submit your notes is [here](https://docs.google.com/forms/d/e/1FAIpQLSdh-fTgFWC8It5H6HEWyRwdjdMQHg08I5uEo9qmXCCVpLU5Bg/viewform?usp=sf_link). 
 
 ### Videos
 
