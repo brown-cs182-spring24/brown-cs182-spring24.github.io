@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-windowTitle: WELCOME TO CS 182, ALGORITHMIC FOUNDATIONS OF COMPUTATIONAL BIOLOGY! 
+windowTitle: WELCOME TO CS182, ALGORITHMIC FOUNDATIONS OF COMPUTATIONAL BIOLOGY! 
 icon: home_icon.png
 link_types: ["QuickLinks"]
 links: [
