@@ -11,13 +11,13 @@ links: [
      "Type" : "QuickLinks"
   },
   {
-    "Title" : "Collaboration Policy, TBD",
-    "Link" : "",
+    "Title" : "Collaboration Policy",
+    "Link" : "/quicklinks/collaboration_policy.pdf",
     "Type" : "QuickLinks"
   },
   {
-    "Title" : "Late Policy, TBD",
-    "Link" : "",
+    "Title" : "Late Policy",
+    "Link" : "/quicklinks/late_policy.pdf",
     "Type" : "QuickLinks"
   },
   {
@@ -31,8 +31,8 @@ links: [
     "Type" : "QuickLinks"
   },
   {
-    "Title" : "Anonymous Feedback Form, TBD",
-    "Link" : "",
+    "Title" : "Anonymous Feedback Form",
+    "Link" : "https://docs.google.com/forms/d/e/1FAIpQLSebwcPv7E4d4D96OVIyLUQTfTBJkmnkX9BoqN9gJYOMQ7erDA/viewform",
     "Type" : "QuickLinks"
   },
 ]
