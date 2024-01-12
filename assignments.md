@@ -13,8 +13,7 @@ All assignments are due on Gradescope at 11:59pm Eastern Time.
 
 ## LaTeX Template
 
-The LaTeX template can be found [here](https://www.overleaf.com/read/tvtrfttssftn
-).
+The LaTeX template can be found [here](https://www.overleaf.com/read/hfndjsfytjbw#d17c21).
 
 ## Homeworks
 
