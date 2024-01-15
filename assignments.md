@@ -23,6 +23,10 @@ The LaTeX template can be found [here](https://www.overleaf.com/read/hfndjsfytjb
 
 {% include table_helper.html name="projects_table" %}
 
+## Exams
+
+{% include table_helper.html name="exams_table" %}
+
 ## Final Project (those seeking 2820 credit only!)
 
 {% include table_helper.html name="fp_table" %}

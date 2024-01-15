@@ -27,11 +27,6 @@ contents: [
     "Out" : ["TBD"],
     "In" : ["TBD"]
    },
-   {
-    "Homework" : ["Homework 5"],
-    "Out" : ["TBD"],
-    "In" : ["TBD"]
-   },
   ]
 ---
 <!-- link format (include braces) {"Homework 1: Alignment": "https://google.com"} -->

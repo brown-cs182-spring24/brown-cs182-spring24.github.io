@@ -1,6 +1,6 @@
 ---
 name: Sanyu Rajakumar (UTA)
 role: staff
-photo: hannah.jpg
-throwback_photo: hannah_alt.jpg
+photo: sanyu.png
+throwback_photo: sanyu_alt.png
 ---
