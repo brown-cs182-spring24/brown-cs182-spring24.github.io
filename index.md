@@ -6,8 +6,8 @@ icon: home_icon.png
 link_types: ["QuickLinks"]
 links: [
   {
-    "Title" : "Syllabus, TBD",
-     "Link" : "",
+    "Title" : "Syllabus",
+     "Link" : "/quicklinks/syllabus.pdf",
      "Type" : "QuickLinks"
   },
   {
