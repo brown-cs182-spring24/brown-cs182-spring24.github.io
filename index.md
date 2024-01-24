@@ -26,8 +26,8 @@ links: [
     "Type" : "QuickLinks"
   },
   {
-    "Title" : "EdStem, TBD",
-    "Link" : "",
+    "Title" : "EdStem",
+    "Link" : "https://edstem.org/us/courses/55106/discussion/",
     "Type" : "QuickLinks"
   },
   {
