@@ -6,7 +6,7 @@ contents: [
   "Date": ["1/25/24"],
   "Topic": ["Welcome to CS 182!"],
   "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=39305c18-b82b-4c88-a5ae-b0fc01269869"}],
-  "Extra Material": []
+  "Extra Material": [{"slides":"lectures/2024/lecture1.pdf"}]
 },
 ]
 ---
