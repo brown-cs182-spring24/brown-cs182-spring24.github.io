@@ -15,14 +15,14 @@ contents: [
    },
    {
     "Project" : ["Project 3"],
-    "Out" : ["TBD"],
-    "In" : ["TBD"], 
+    "Out" : ["3/14/24"],
+    "In" : ["4/4/24"], 
     "Support Files" : []
    },
    {
     "Project" : ["Project 4"],
-    "Out" : ["TBD"],
-    "In" : ["TBD"],
+    "Out" : ["4/9/24"],
+    "In" : ["5/2/24"],
     "Support Files" : []
    },
 ]

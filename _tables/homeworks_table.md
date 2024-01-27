@@ -19,13 +19,13 @@ contents: [
    },
    {
     "Homework" : ["Homework 3"],
-    "Out" : ["TBD"],
-    "In" : ["TBD"]
+    "Out" : ["4/2/24"],
+    "In" : ["4/11/24"]
    },
    {
     "Homework" : ["Homework 4"],
-    "Out" : ["TBD"],
-    "In" : ["TBD"]
+    "Out" : ["4/9/24"],
+    "In" : ["4/18/24"]
    },
   ]
 ---
