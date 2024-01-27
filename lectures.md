@@ -11,7 +11,7 @@ links: []
 
 ### Class Notes
 
-The link to the ongoing class notes can be found [here](), to be released soon. 
+{% include table_helper.html name="notes_table" %}
 
 ### Note Sign-up
 
