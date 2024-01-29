@@ -3,7 +3,7 @@ cols: ["Exam", "Out", "In", "Support Files"]
 contents: [
   {
     "Exam" : ["Midterm"],
-    "Out" : ["3/7/24"],
+    "Out" : ["3/12/24"],
     "In" : ["-"]
    },
    {
