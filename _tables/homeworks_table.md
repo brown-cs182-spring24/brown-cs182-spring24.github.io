@@ -7,7 +7,7 @@ contents: [
     "In" : ["2/6/24"]
    },
    {
-    "Homework" : ["Homework 1: BLAST and Karlin-Altschul Statistics"],
+    "Homework" : [{"Homework 1: BLAST and Karlin-Altschul Statistics":"/assignments/CS1820_HW1.pdf"}],
     "Out" : ["1/30/24"],
     "In" : ["2/8/24"]
    },
