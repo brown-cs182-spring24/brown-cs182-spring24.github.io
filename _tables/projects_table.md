@@ -2,10 +2,10 @@
 cols: ["Project", "Out", "In", "Support Files"]
 contents: [
    {
-    "Project" : ["Project 1: Simplified BLAST"],
+    "Project" : [{"Project 1: BLAST":"/assignments/CS1820_PR1.pdf"}],
     "Out" : ["2/1/24"],
     "In" : ["2/15/24"],
-    "Support Files" : []
+    "Support Files" : [{"files":"/assignments/support/PR1.zip"}]
    },
    {
     "Project" : ["Project 2"],
