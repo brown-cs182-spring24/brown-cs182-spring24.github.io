@@ -20,6 +20,12 @@ contents: [
   "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=669c6eb9-7d58-4072-a180-b0fc012698d9"}],
   "Extra Material": []
 },
+{
+  "Date": ["2/6/24"],
+  "Topic": ["BLAST Algorithm and Random Walk Difference Equations"],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e255066-75eb-49db-b539-b0fc012698ec"}],
+  "Extra Material": []
+},
 ]
 ---
 //"Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9aa2bce4-5706-420f-9daa-af090116a740"}],
