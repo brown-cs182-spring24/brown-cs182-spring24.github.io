@@ -26,6 +26,12 @@ contents: [
   "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e255066-75eb-49db-b539-b0fc012698ec"}],
   "Extra Material": []
 },
+{
+  "Date": ["2/8/24"],
+  "Topic": ["Gumbel Distribution for Maximal Excursion and 1D Karlin-Altschul Statistics"],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=69e07a8b-0e41-413b-b1f4-b0fc01269904"}],
+  "Extra Material": []
+},
 ]
 ---
 //"Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9aa2bce4-5706-420f-9daa-af090116a740"}],
