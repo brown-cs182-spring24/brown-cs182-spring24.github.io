@@ -32,6 +32,12 @@ contents: [
   "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=69e07a8b-0e41-413b-b1f4-b0fc01269904"}],
   "Extra Material": []
 },
+{
+  "Date": ["2/13/24"],
+  "Topic": ["Intro to Genome Assembly"],
+  "Video": ["recording TBD"],
+  "Extra Material": [{"intro slides":"lectures/2024/GenomeAssemblyIntro.ppt"}, {"theory and practice slides":"lectures/2024/GenomeAssemblyTheoryPractice.ppt"}]
+},
 ]
 ---
 //"Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9aa2bce4-5706-420f-9daa-af090116a740"}],
