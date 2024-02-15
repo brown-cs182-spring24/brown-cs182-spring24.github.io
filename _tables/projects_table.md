@@ -8,10 +8,10 @@ contents: [
     "Support Files" : [{"files":"/assignments/support/PR1.zip"}]
    },
    {
-    "Project" : ["Project 2"],
+    "Project" : [{"Project 2: Contamination and Correction":"/assignments/CS1820_PR2.pdf"}],
     "Out" : ["2/15/24"],
     "In" : ["2/29/24"],
-    "Support Files" : []
+    "Support Files" : [{"files":"/assignments/support/PR2.zip"}]
    },
    {
     "Project" : ["Project 3"],

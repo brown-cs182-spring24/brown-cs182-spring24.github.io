@@ -12,7 +12,7 @@ contents: [
     "In" : ["2/8/24"]
    },
    {
-    "Homework" : ["Homework 2"],
+    "Homework" : [{"Homework 2 : Graph and Sequence Inference":"assignments/CS1820_HW2.pdf"}],
     "Out" : ["2/15/24"],
     "In" : ["2/22/24"],
     "Support Files": []
