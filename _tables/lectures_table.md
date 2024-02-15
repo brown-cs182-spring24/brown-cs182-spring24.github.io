@@ -35,8 +35,8 @@ contents: [
 {
   "Date": ["2/13/24"],
   "Topic": ["Intro to Genome Assembly"],
-  "Video": ["recording TBD"],
-  "Extra Material": [{"intro slides":"lectures/2024/GenomeAssemblyIntro.ppt"}, {"theory and practice slides":"lectures/2024/GenomeAssemblyTheoryPractice.ppt"}]
+  "Video": [{"recording":"https://drive.google.com/file/d/1tXz0ZNsJ4kgvSObOVQP-vNs4M646PfJs/view?usp=drive_web"}],
+  "Extra Material": [{"intro slides":"lectures/2024/GenomeAssemblyIntro.ppt"}, {"theory and practice slides":"lectures/2024/GenomeAssemblyTheoryPractice.ppt"}, {"Venter et al., 2001":"resources/ch2/Venter_2001.pdf"}]
 },
 ]
 ---
