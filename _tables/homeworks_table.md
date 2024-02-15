@@ -15,7 +15,7 @@ contents: [
     "Homework" : [{"Homework 2 : Graph and Sequence Inference":"assignments/CS1820_HW2.pdf"}],
     "Out" : ["2/15/24"],
     "In" : ["2/22/24"],
-    "Support Files": []
+    "Support Files": [{"LaTeX Template":"https://www.overleaf.com/read/ddjqcqpfvgfr#87e3c7"}]
    },
    {
     "Homework" : ["Homework 3"],
