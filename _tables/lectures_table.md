@@ -38,6 +38,12 @@ contents: [
   "Video": [{"recording":"https://drive.google.com/file/d/1tXz0ZNsJ4kgvSObOVQP-vNs4M646PfJs/view?usp=drive_web"}],
   "Extra Material": [{"intro slides":"lectures/2024/GenomeAssemblyIntro.ppt"}, {"theory and practice slides":"lectures/2024/GenomeAssemblyTheoryPractice.ppt"}, {"Venter et al., 2001":"resources/ch2/Venter_2001.pdf"}]
 },
+{
+  "Date": ["2/15/24"],
+  "Topic": ["Poisson Processes"],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1932e857-5333-417e-ac64-b0fc0126992f"}],
+  "Extra Material": []
+},
 ]
 ---
 //"Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9aa2bce4-5706-420f-9daa-af090116a740"}],
