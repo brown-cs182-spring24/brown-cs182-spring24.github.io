@@ -44,6 +44,12 @@ contents: [
   "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1932e857-5333-417e-ac64-b0fc0126992f"}],
   "Extra Material": []
 },
+{
+  "Date": ["2/15/24"],
+  "Topic": ["de Bruijn Graphs and the Idury-Waterman Algorithm"],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=445eca85-38b9-4428-b27b-b0fc0126995f"}],
+  "Extra Material": []
+},
 ]
 ---
 //"Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9aa2bce4-5706-420f-9daa-af090116a740"}],
