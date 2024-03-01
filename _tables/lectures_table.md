@@ -45,9 +45,21 @@ contents: [
   "Extra Material": []
 },
 {
-  "Date": ["2/15/24"],
+  "Date": ["2/22/24"],
   "Topic": ["de Bruijn Graphs and the Idury-Waterman Algorithm"],
   "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=445eca85-38b9-4428-b27b-b0fc0126995f"}],
+  "Extra Material": []
+},
+{
+  "Date": ["2/27/24"],
+  "Topic": ["Idury-Waterman Algorithm and de Bruijn Graph Statistics"],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=92539317-1f6b-423f-a8bf-b0fc01269977"}],
+  "Extra Material": [{"slides":"lectures/2024/Idury-Waterman.pdf"}]
+},
+{
+  "Date": ["2/29/24"],
+  "Topic": ["Waterman Statistics"],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7ff16aad-9d7c-4957-bce9-b0fc0126998f"}],
   "Extra Material": []
 },
 ]
