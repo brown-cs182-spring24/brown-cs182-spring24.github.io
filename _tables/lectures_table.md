@@ -62,6 +62,18 @@ contents: [
   "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7ff16aad-9d7c-4957-bce9-b0fc0126998f"}],
   "Extra Material": []
 },
+{
+  "Date": ["3/5/24"],
+  "Topic": ["Waterman Statistics Questions 1 and 2"],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a1d35f63-c9d6-4e26-a7a5-b0fc012699a7"}],
+  "Extra Material": []
+},
+{
+  "Date": ["3/7/24"],
+  "Topic": ["Waterman Statistics Question 3 and Linearity of Expectation"],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=803a519a-d9c8-44a4-a363-b0fc012699c4"}],
+  "Extra Material": []
+},
 ]
 ---
 //"Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9aa2bce4-5706-420f-9daa-af090116a740"}],
