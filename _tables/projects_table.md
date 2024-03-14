@@ -14,10 +14,10 @@ contents: [
     "Support Files" : [{"files":"/assignments/support/PR2.zip"}]
    },
    {
-    "Project" : ["Project 3"],
+    "Project" : [{"Project 3: Genome Assembly":"/assignments/CS1820_PR3.pdf"}],
     "Out" : ["3/14/24"],
     "In" : ["4/4/24"], 
-    "Support Files" : []
+    "Support Files" : [{"files":"/assignments/support/PR3.zip"}]
    },
    {
     "Project" : ["Project 4"],

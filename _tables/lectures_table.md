@@ -74,6 +74,18 @@ contents: [
   "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=803a519a-d9c8-44a4-a363-b0fc012699c4"}],
   "Extra Material": []
 },
+{
+  "Date": ["3/12/24"],
+  "Topic": ["Midterm"],
+  "Video": [],
+  "Extra Material": []
+},
+{
+  "Date": ["3/14/24"],
+  "Topic": ["Ham Smith Problem and More"],
+  "Video": [],
+  "Extra Material": []
+},
 ]
 ---
 //"Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9aa2bce4-5706-420f-9daa-af090116a740"}],
