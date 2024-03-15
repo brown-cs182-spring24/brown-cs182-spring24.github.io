@@ -82,8 +82,8 @@ contents: [
 },
 {
   "Date": ["3/14/24"],
-  "Topic": ["Ham Smith Problem and More"],
-  "Video": [],
+  "Topic": ["The Ham Smith Problem"],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2a6964bc-2ee8-4a91-ad14-b0fc012699f7"}],
   "Extra Material": []
 },
 ]
