@@ -86,8 +86,20 @@ contents: [
   "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2a6964bc-2ee8-4a91-ad14-b0fc012699f7"}],
   "Extra Material": []
 },
+{
+  "Date": ["3/19/24"],
+  "Topic": ["Intro to Ancestral Recombination Graphs"],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=29f3a9dd-9159-4fa2-afc0-b0fc01269a0f"}],
+  "Extra Material": []
+},
+{
+  "Date": ["3/21/24"],
+  "Topic": ["Setup for the Minichiello-Durbin Algorithm"],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=970dff92-0940-4369-abe8-b0fc01269a3d"}],
+  "Extra Material": []
+},
 ]
 ---
+
 //"Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9aa2bce4-5706-420f-9daa-af090116a740"}],
 //"Extra Material": [{"slides":"/lectures/Firstlecture2022.pdf"}]
-
