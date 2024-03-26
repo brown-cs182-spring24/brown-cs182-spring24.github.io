@@ -5,7 +5,7 @@ contents: [
     "Chapter" : ["PDF Link"],
     "CH1" : [{"notes":"/notes/CH1.pdf"}],
     "CH2" : [{"notes":"/notes/CH2.pdf"}],
-    "CH3" : ["-"],
+    "CH3" : ["notes":"/notes/CH3.pdf"],
     "CH4" : ["-"],
     "CH5" : ["-"]
    },
