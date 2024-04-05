@@ -3,7 +3,7 @@ cols: ["Checkpoints", "Dates"]
 contents: [
   {
     "Checkpoints" : [Project Proposal Meetings],
-    "Dates" : ["TBD"]
+    "Dates" : ["Week of April 14"]
    },
    {
     "Checkpoints" : [Project Presentations],

@@ -18,14 +18,15 @@ contents: [
     "Support Files": [{"LaTeX Template":"https://www.overleaf.com/read/ddjqcqpfvgfr#87e3c7"}]
    },
    {
-    "Homework" : ["Homework 3"],
+    "Homework" : ["Homework 3 : Ancestral Recombination Graphs":"assignments/CS1820_HW3.pdf"],
     "Out" : ["4/4/24"],
-    "In" : ["4/11/24"]
+    "In" : ["4/11/24"],
+    "Support Files": [{"LaTeX Template":"https://www.overleaf.com/read/ddjqcqpfvgfr#87e3c7"}]
    },
    {
     "Homework" : ["Homework 4"],
-    "Out" : ["4/9/24"],
-    "In" : ["4/18/24"]
+    "Out" : ["4/16/24"],
+    "In" : ["4/23/24"]
    },
   ]
 ---

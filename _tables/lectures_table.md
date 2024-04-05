@@ -104,6 +104,12 @@ contents: [
   "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7f49da72-4b0e-4927-9802-b0fc01269a8e"}],
   "Extra Material": []
 },
+{
+  "Date": ["4/4/24"],
+  "Topic": ["ARG Wrap-up and Intro to HMM Learning"],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a4995cae-b19a-4e4a-a0b2-b0fc01269aa7"}],
+  "Extra Material": []
+},
 ]
 ---
 

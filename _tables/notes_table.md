@@ -6,7 +6,7 @@ contents: [
     "CH1" : [{"notes":"/notes/CH1.pdf"}],
     "CH2" : [{"notes":"/notes/CH2.pdf"}],
     "CH3" : ["notes":"/notes/CH3.pdf"],
-    "CH4" : ["-"],
+    "CH4" : ["notes":"/notes/CH4.pdf"],
     "CH5" : ["-"]
    },
    {
