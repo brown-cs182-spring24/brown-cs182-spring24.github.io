@@ -102,7 +102,7 @@ contents: [
   "Date": ["4/2/24"],
   "Topic": ["Minichiello-Durbin Algorithm and Marginal ARGs"],
   "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7f49da72-4b0e-4927-9802-b0fc01269a8e"}],
-  "Extra Material": []
+  "Extra Material": [{"slides":"lectures/2024/MD_powerpoint.pdf"}]
 },
 {
   "Date": ["4/4/24"],
