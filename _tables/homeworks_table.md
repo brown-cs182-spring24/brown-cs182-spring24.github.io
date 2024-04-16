@@ -12,19 +12,19 @@ contents: [
     "In" : ["2/8/24"]
    },
    {
-    "Homework" : [{"Homework 2 : Graph and Sequence Inference":"assignments/CS1820_HW2.pdf"}],
+    "Homework" : [{"Homework 2: Graph and Sequence Inference":"assignments/CS1820_HW2.pdf"}],
     "Out" : ["2/15/24"],
     "In" : ["2/22/24"],
     "Support Files": [{"LaTeX Template":"https://www.overleaf.com/read/ddjqcqpfvgfr#87e3c7"}]
    },
    {
-    "Homework" : ["Homework 3 : Ancestral Recombination Graphs":"assignments/CS1820_HW3.pdf"],
+    "Homework" : [{"Homework 3: Ancestral Recombination Graphs":"assignments/CS1820_HW3.pdf"}],
     "Out" : ["4/4/24"],
     "In" : ["4/11/24"],
     "Support Files": [{"LaTeX Template":"https://www.overleaf.com/read/ddjqcqpfvgfr#87e3c7"}]
    },
    {
-    "Homework" : ["Homework 4"],
+    "Homework" : [{"Homework 4: Baum-Welch Algorithm":"assignments/CS1820_HW4.pdf"}],
     "Out" : ["4/16/24"],
     "In" : ["4/23/24"]
    },

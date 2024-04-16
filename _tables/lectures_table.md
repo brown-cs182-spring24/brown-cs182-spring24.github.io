@@ -110,6 +110,24 @@ contents: [
   "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a4995cae-b19a-4e4a-a0b2-b0fc01269aa7"}],
   "Extra Material": []
 },
+{
+  "Date": ["4/9/24"],
+  "Topic": ["No Lecture!"],
+  "Video": [],
+  "Extra Material": []
+},
+{
+  "Date": ["4/11/24"],
+  "Topic": ["No Lecture!"],
+  "Video": [],
+  "Extra Material": []
+},
+{
+  "Date": ["4/15/24"],
+  "Topic": ["Linear Algebra Review for Spectral Clustering"],
+  "Video": [],
+  "Extra Material": []
+},
 ]
 ---
 
