@@ -20,10 +20,10 @@ contents: [
     "Support Files" : [{"files":"/assignments/support/PR3.zip"}]
    },
    {
-    "Project" : ["Project 4"],
-    "Out" : ["4/16/24"],
-    "In" : ["5/2/24"],
-    "Support Files" : []
+    "Project" : [{"Project 4: Clustering":"/assignments/CS1820_PR4.pdf"}],
+    "Out" : ["4/24/24"],
+    "In" : ["5/8/24"],
+    "Support Files" : [{"files":"/assignments/support/PR4.zip"}]
    },
 ]
 ---

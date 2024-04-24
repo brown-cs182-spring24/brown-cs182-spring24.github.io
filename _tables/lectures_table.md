@@ -106,7 +106,7 @@ contents: [
 },
 {
   "Date": ["4/4/24"],
-  "Topic": ["ARG Wrap-up and Intro to HMM Learning"],
+  "Topic": ["ARG Wrap-up and HMM Learning"],
   "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a4995cae-b19a-4e4a-a0b2-b0fc01269aa7"}],
   "Extra Material": []
 },
@@ -123,9 +123,21 @@ contents: [
   "Extra Material": []
 },
 {
-  "Date": ["4/15/24"],
+  "Date": ["4/16/24"],
   "Topic": ["Linear Algebra Review for Spectral Clustering"],
-  "Video": [],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=13943aad-fed1-43c7-9a02-b0fc01269b01"}],
+  "Extra Material": []
+},
+{
+  "Date": ["4/18/24"],
+  "Topic": ["Matrix Decompositions and Spectral Analysis"],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=70fecd33-268a-4e76-b7b9-b0fc01269b1d"}],
+  "Extra Material": []
+},
+{
+  "Date": ["4/23/24"],
+  "Topic": ["Algorithm for Spectral Clustering"],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cd1128a1-f9ed-4e09-9a0f-b0fc01269b35"}],
   "Extra Material": []
 },
 ]
