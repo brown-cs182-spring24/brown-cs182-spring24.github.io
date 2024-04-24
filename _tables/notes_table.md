@@ -7,7 +7,7 @@ contents: [
     "CH2" : [{"notes":"/notes/CH2.pdf"}],
     "CH3" : ["notes":"/notes/CH3.pdf"],
     "CH4" : ["notes":"/notes/CH4.pdf"],
-    "CH5" : ["-"]
+    "CH5" : ["notes":"/notes/CH5.pdf"]
    },
    {
     "Chapter" : ["Melinda Link"],
