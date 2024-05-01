@@ -140,6 +140,18 @@ contents: [
   "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cd1128a1-f9ed-4e09-9a0f-b0fc01269b35"}],
   "Extra Material": []
 },
+{
+  "Date": ["4/25/24"],
+  "Topic": ["Normalized Laplacian and Spectral Clustering Theory"],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ba52c0be-17af-42e2-a8c8-b0fc01269b4e"}],
+  "Extra Material": []
+},
+{
+  "Date": ["4/30/24"],
+  "Topic": ["Algorithm for Spectral Clustering"],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=36490f3c-a170-4da9-b756-b0fc01269b67"}],
+  "Extra Material": []
+},
 ]
 ---
 
