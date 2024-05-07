@@ -148,8 +148,14 @@ contents: [
 },
 {
   "Date": ["4/30/24"],
-  "Topic": ["Algorithm for Spectral Clustering"],
+  "Topic": ["Spectral Clustering Wrap-up and Intro to Protein Folding"],
   "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=36490f3c-a170-4da9-b756-b0fc01269b67"}],
+  "Extra Material": []
+},
+{
+  "Date": ["5/2/24"],
+  "Topic": ["Protein Folding and Course Wrap-up"],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dbc8680d-a78a-44f8-a868-b0fc01269b7e"}],
   "Extra Material": []
 },
 ]

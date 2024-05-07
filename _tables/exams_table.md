@@ -6,11 +6,6 @@ contents: [
     "Out" : ["3/12/24"],
     "In" : ["-"]
    },
-   {
-    "Exam" : ["Final"],
-    "Out" : ["5/10/24"],
-    "In" : ["5/17/24"]
-   },
   ]
 ---
 <!-- link format (include braces) {"Homework 1: Alignment": "https://google.com"} -->

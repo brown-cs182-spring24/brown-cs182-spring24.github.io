@@ -40,15 +40,14 @@ links: [
 
 ### Course Information
 
-The aim of this course is to provide a more detailed look into algorithms in computational molecular biology than CS181. The course is organized into seven chapters:
+The aim of this course is to provide a more detailed look into algorithms in computational molecular biology than CS181. The course is organized into six chapters:
 
 1. BLAST and Karlin-Altschul Statistics
 2. Genome Assembly and Lander-Waterman Statistics
 3. Coalescent Theory and Ancestral Recombination Graphs
 4. Hidden Markov Models - The Learning Problem
 5. Clustering Theory and Spectral Clustering
-6. Suffix Trees in Linear Time
-7. Protein Folding Algorithms
+6. Protein Folding Algorithms
 
 Each chapter is devoted to a class of fundamental computational problems in genomics related to the analysis of DNA, RNA, protein sequences and structures, and their molecular biological functions. Our journey in each chapter is driven by a set of beautiful algorithms, presented together with their theoretical foundations, in comprehensive analytical detail. ”Beautiful” algorithms are rigorous, practical and elegant, yet intuitive enough to be successfully implemented. The algorithms in each chapter are presented together with their underlying data structures, the mathematical analysis of their performance, and at times, the
 exciting story of the researchers quest for algorithmic optimality (speed). The overall work in the class will help in providing an algorithmically and mathematically advanced journey through today’s most indispensable software genomics tools.

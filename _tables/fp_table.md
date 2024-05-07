@@ -7,11 +7,11 @@ contents: [
    },
    {
     "Checkpoints" : [Project Presentations],
-    "Dates" : ["TBD"]
+    "Dates" : ["At the Discretion of Prof. Istrail and HTA"]
    },
    {
     "Checkpoints" : ["Project Powerpoint, Paper, and Code"],
-    "Dates" : ["TBD"]
+    "Dates" : ["At the Discretion of Prof. Istrail and HTA"]
    },
   ]
 ---

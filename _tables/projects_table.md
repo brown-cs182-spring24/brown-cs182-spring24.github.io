@@ -25,6 +25,12 @@ contents: [
     "In" : ["5/8/24"],
     "Support Files" : [{"files":"/assignments/support/PR4.zip"}]
    },
+   {
+    "Project" : ["Final Project: Protein Folding"],
+    "Out" : ["5/10/24"],
+    "In" : ["5/17/24"],
+    "Support Files" : []
+   },
 ]
 ---
 <!-- the link format: {"Project 1: Alignment": "https://google.com"} -->

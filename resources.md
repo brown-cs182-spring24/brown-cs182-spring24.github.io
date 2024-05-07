@@ -59,11 +59,12 @@ links: []
 - [Spectral Clustering Based Classification Algorithm for Text Classification](resources/ch5/Suganthi_Manimekalai_2018.pdf)
 - [Spectral clustering via half-quadratic optimization](resources/ch5/Zhu_2019.pdf)
 
-### Chapter 7 Readings: Protein Folding Algorithms
+### Chapter 6 Readings: Protein Folding Algorithms
 - [The Protein Folding Problem](resources/ch7/Dill_2008.pdf)
-
-## Additional Resources
-
-- To be released soon!
+- [Introduction to Protein Structure](resources/ch7/branden_tooze_textbook.pdf)
+- [Protein Folding Quotes](resources/ch7/protein_quotes.pdf)
+- [Folding on 2D Lattices and the Hart-Istrail Algorithm](resources/ch7/lattice_presentation.pdf)
+- [Contact Maps and Skolnick Clustering](resources/ch7/contact_maps_skolnick.pdf)
+- [Protein Structure Alignment](resources/ch7/structure_alignment.pdf)
 
 ---
