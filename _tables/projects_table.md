@@ -26,10 +26,10 @@ contents: [
     "Support Files" : [{"files":"/assignments/support/PR4.zip"}]
    },
    {
-    "Project" : ["Final Project: Protein Folding"],
+    "Project" : [{"Final Project: Protein Folding":"/assignments/CS1820_FP.pdf"}],
     "Out" : ["5/10/24"],
     "In" : ["5/17/24"],
-    "Support Files" : []
+    "Support Files" : [{"files":"/assignments/support/FP.zip"}]
    },
 ]
 ---
